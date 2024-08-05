@@ -27,7 +27,7 @@ export default class Youtube {
         params: {
           part: "snippet%2CcontentDetails%2Cstatistics",
           chart: "mostPopular",
-          regionCode: US,
+          regionCode: "US",
         },
       })
       .then((res) => res.data.items);

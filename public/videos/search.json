@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "vRYL6VGcRLm2y5wijF0-ICUxmc8",
+  "etag": "wag6ID6fcuyyLHmyRc0LuLGW89Q",
   "nextPageToken": "CBkQAA",
   "regionCode": "US",
   "pageInfo": {
@@ -10,75 +10,41 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "gWhH3xUHQkjSDMCMd3awn2pd-2Y",
+      "etag": "SmBSeDECl4Nh4PFXq2_2OK0zyPY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "WuDrnGyMiOU"
+        "videoId": "pI9vHl-cyuI"
       },
       "snippet": {
-        "publishedAt": "2024-07-31T12:00:03Z",
+        "publishedAt": "2024-08-04T04:00:08Z",
         "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "[달려라 석진] EP.0-2 | 제주 출발 D-1",
-        "description": "24. 8. 13. 오후 9시 본방사수! Aug 13, 9PM (KST) Coming Soon! #RunJin #달려라석진 #진 #Jin Connect with BTS: ...",
+        "title": "지민 (Jimin) &#39;Rebirth + Slow Dance (feat. Sofia Carson)&#39; Live Clip",
+        "description": "Listen to 'MUSE': https://jimin.lnk.to/MUSE Special Thanks to Jimin's MUSE, ARMY 0:00 Rebirth (Intro) 2:36 Slow Dance (feat.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WuDrnGyMiOU/default.jpg",
+            "url": "https://i.ytimg.com/vi/pI9vHl-cyuI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WuDrnGyMiOU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pI9vHl-cyuI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WuDrnGyMiOU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pI9vHl-cyuI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "BANGTANTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-31T12:00:03Z"
+        "publishTime": "2024-08-04T04:00:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "R3uXkLntQELAh8nFNnM8OR-BABo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "-JXOep6LPK0"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-31T11:00:05Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "지민 (Jimin) ‘MUSE’ Recording Behind - BTS (방탄소년단)",
-        "description": "지민 #Jimin #Jimin_MUSE Connect with BTS: https://ibighit.com/bts https://x.com/bts_bighit https://x.com/BTS_twt ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-JXOep6LPK0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-JXOep6LPK0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-JXOep6LPK0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "BANGTANTV",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-31T11:00:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "0lJjSh3KwxJTVIMjyF7bxQ_Koew",
+      "etag": "baI4Kffic4Is2OdE_TuoOjD2y4A",
       "id": {
         "kind": "youtube#channel",
         "channelId": "UCLkAepWjdylmXSltofFvsYQ"
@@ -106,41 +72,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "poI3MCitt4jqh1utaEGn4dLUrFM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Ec_Xp46xGk4"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-30T00:00:02Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "&#39;이게 맞아?!&#39; Main Trailer",
-        "description": "미국의 여름, 제주의 가을, 그리고 삿포로의 겨울 이게 맞나?! 싶지만 둘이라서 즐겁다!  🏎️   ⏰ 8월 8일, 디즈니 독점 공개 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ec_Xp46xGk4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ec_Xp46xGk4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ec_Xp46xGk4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "BANGTANTV",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-30T00:00:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "vG5cLTh5g6bTTUGd6Vd8igYL91s",
+      "etag": "131lkYdYqsI7vk0Uo3DIiXsyHUk",
       "id": {
         "kind": "youtube#video",
         "videoId": "gdZLi9oWNZg"
@@ -208,41 +140,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Yh42ue7LSflC1pAOGqRpZ6DBwfw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "w2YzWdpSCC8"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-30T12:00:00Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "[달려라 석진] EP.0-1 | 셀프로 세팅한 고생길의 서막",
-        "description": "24. 8. 13. 오후 9시 본방사수! #RunJin #달려라석진 #진 #Jin Connect with BTS: https://ibighit.com/bts https://x.com/bts_bighit ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/w2YzWdpSCC8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/w2YzWdpSCC8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/w2YzWdpSCC8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "BANGTANTV",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-30T12:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "2fVfUVxcjl4cxcOdWbMZE-Ej8Jg",
+      "etag": "-V0M3sR2AO0XAH0VwMuIK0w8GCM",
       "id": {
         "kind": "youtube#video",
         "videoId": "kTlv5_Bs8aw"
@@ -276,7 +174,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ZxhEhasA47Elaxg5HO1J0-mD4K0",
+      "etag": "9sWUCltaFkxwecfoQcEr3Kzo8uM",
       "id": {
         "kind": "youtube#video",
         "videoId": "XsX3ATc3FbA"
@@ -344,7 +242,41 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Ji597E_ZQjUEt5GVEMfaZ437IJw",
+      "etag": "MM7o1cWWHciI1wFL8nC97bgZN20",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MBdVXkSdhwU"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-18T09:00:02Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;DNA&#39; Official MV",
+        "description": "BTS (방탄소년단) 'DNA' Official MV Credits: Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee (Lumpens) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-18T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0P0F40x-b4YgXIJwruxN_jwTLtk",
       "id": {
         "kind": "youtube#video",
         "videoId": "Av9DvtlJ9_M"
@@ -378,41 +310,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WjxGbjFVtFDugVirCmF-0_Y1pdw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "S5aZE8d-1lw"
-      },
-      "snippet": {
-        "publishedAt": "2022-01-02T09:31:11Z",
-        "channelId": "UCRdGuNKKm_yf1qZKAOxERaw",
-        "title": "#simple dimple#vminkook#bts version💜#bangtan ☕coffee cutsz#v#jimin#jungkook",
-        "description": "credits to: You followed a link on instagram.com that redirects to https://v.douyin.com/2qByhYx/.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/S5aZE8d-1lw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/S5aZE8d-1lw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/S5aZE8d-1lw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Zara Art Travel👒",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-01-02T09:31:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "F_mgvDOTdGlagYFVvoGKUopKTr4",
+      "etag": "K_MJS99sS0q9mMOjcGMzLiANZQY",
       "id": {
         "kind": "youtube#video",
         "videoId": "pBuZEGYXA6E"
@@ -442,6 +340,142 @@
         "channelTitle": "HYBE LABELS",
         "liveBroadcastContent": "none",
         "publishTime": "2018-08-24T09:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IqO8NTreBbCaGsJsT-9qwhw-zT0",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL1s89zMwwA_2Fe3oOrsnFSUrXGx3RTGfv"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-23T15:12:21Z",
+        "channelId": "UCob_dRNn7TmN5gxKaPlSnEw",
+        "title": "BTS All Songs Playlist",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kh0OF8ZE8co/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kh0OF8ZE8co/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kh0OF8ZE8co/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "dalgi_jams",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-23T15:12:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K57QwEgKBw9vhmataB9a7OUEZ6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hmE9f-TEutc"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-09T15:00:02Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;피 땀 눈물 (Blood Sweat &amp; Tears)&#39; Official MV",
+        "description": "BTS (방탄소년단) '피 땀 눈물 (Blood Sweat & Tears)' Official MV Music video credits: Director: YongSeok Choi (Lumpens) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hmE9f-TEutc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hmE9f-TEutc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hmE9f-TEutc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-09T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aqxNQNE3AHjwoTpEaccPxHIRkMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4ujQOR2DMFM"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-01T15:00:22Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;불타오르네 (FIRE)&#39; Official MV",
+        "description": "BTS Special Album '화양연화 Young Forever' will be released on 2nd May 2016. iTunes Download Link ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ujQOR2DMFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ujQOR2DMFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ujQOR2DMFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-01T15:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GlB9JB9BdbFc13FR-CCjwgD_A70",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GZjt_sA2eso"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-15T13:00:03Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Save ME&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Save ME' Official MV.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GZjt_sA2eso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GZjt_sA2eso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZjt_sA2eso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-15T13:00:03Z"
       }
     },
     {
@@ -480,172 +514,104 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "e3zKkDtN4dTexjErPOH-Ai37qs8",
+      "etag": "MEYo4cOiD_YV-D-14iOiw4z-wcg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "hmE9f-TEutc"
+        "videoId": "TEl6KgcfSA8"
       },
       "snippet": {
-        "publishedAt": "2016-10-09T15:00:02Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;피 땀 눈물 (Blood Sweat &amp; Tears)&#39; Official MV",
-        "description": "BTS (방탄소년단) '피 땀 눈물 (Blood Sweat & Tears)' Official MV Music video credits: Director: YongSeok Choi (Lumpens) ...",
+        "publishedAt": "2017-09-28T09:58:35Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[BTS - Go Go] Comeback Stage | M COUNTDOWN 170928 EP.543",
+        "description": "KPOP Chart Show M COUNTDOWN | EP.543 - BTS - Go Go ▷Watch more video clips: http://bit.ly/MCOUNTDOWN-KPOP2017 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/hmE9f-TEutc/default.jpg",
+            "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/hmE9f-TEutc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/hmE9f-TEutc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "Mnet K-POP",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-10-09T15:00:02Z"
+        "publishTime": "2017-09-28T09:58:35Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "gS9DImrPtGX5c7GZhXtGkcOKSRg",
+      "etag": "H229kXrMpr9JeN2qjlLn1uFyHD4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "GZjt_sA2eso"
+        "videoId": "DTcKkcyS410"
       },
       "snippet": {
-        "publishedAt": "2016-05-15T13:00:03Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;Save ME&#39; Official MV",
-        "description": "BTS (방탄소년단) 'Save ME' Official MV.",
+        "publishedAt": "2014-04-06T15:00:00Z",
+        "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+        "title": "[MV] BTS(방탄소년단) _ Just One Day(하루만)",
+        "description": "[MV] BTS(방탄소년단) _ Just One Day(하루만) LOEN MUSIC's New Brand Name, 1theK! 로엔뮤직의 새이름 1theK! *English ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/GZjt_sA2eso/default.jpg",
+            "url": "https://i.ytimg.com/vi/DTcKkcyS410/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/GZjt_sA2eso/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DTcKkcyS410/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/GZjt_sA2eso/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DTcKkcyS410/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "1theK (원더케이)",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-05-15T13:00:03Z"
+        "publishTime": "2014-04-06T15:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "mKsNThtqJ0R8uMa8NfnPfy3BAA4",
+      "etag": "K5S4Wqs5BeE5HPwC5rWYy-xIYpA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "7C2z4GqqS5E"
+        "videoId": "HbkBVxU5K5A"
       },
       "snippet": {
-        "publishedAt": "2018-05-18T09:00:02Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;FAKE LOVE&#39; Official MV",
-        "description": "BTS (방탄소년단) 'FAKE LOVE' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee, Guzza, ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "HYBE LABELS",
-        "liveBroadcastContent": "none",
-        "publishTime": "2018-05-18T09:00:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "biEOYc22I_A5hx5Uc0UXgRVxQKA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "xwADdJym_y4"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-24T10:00:03Z",
+        "publishedAt": "2022-04-23T01:00:03Z",
         "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "[CHOREOGRAPHY] 지민 (Jimin) ‘Who’ Dance Practice",
-        "description": "Listen to 'MUSE': https://jimin.lnk.to/MUSE Connect with BTS: https://ibighit.com/bts https://x.com/bts_bighit https://x.com/BTS_twt ...",
+        "title": "BTS (방탄소년단) &#39;Butter&#39; @ The 64th GRAMMY Awards",
+        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xwADdJym_y4/default.jpg",
+            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xwADdJym_y4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xwADdJym_y4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "BANGTANTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-24T10:00:03Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "PAH7etjtAiwZx5WDJgbV3zkjtXM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "cQA7VKSvXFM"
-      },
-      "snippet": {
-        "publishedAt": "2021-12-04T12:00:01Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "[CHOREOGRAPHY] Jin of BTS ‘슈퍼 참치’ Special Performance Video",
-        "description": "Jin #진 #슈퍼참치 #SUPERTUNA Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cQA7VKSvXFM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cQA7VKSvXFM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cQA7VKSvXFM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "BANGTANTV",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-12-04T12:00:01Z"
+        "publishTime": "2022-04-23T01:00:03Z"
       }
     },
     {
@@ -684,109 +650,41 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "THJ4aAOcP-HUhE9qzkkRQyFYDWc",
+      "etag": "7TsQK6DcDiIirVtmy_OetfobuSU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "H8lYMWZD5P8"
+        "videoId": "bsmNvFYVIus"
       },
       "snippet": {
-        "publishedAt": "2015-06-23T15:00:07Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;쩔어&#39; Official MV",
-        "description": "BTS (방탄소년단) '쩔어' Official MV https://itunes.apple.com/video/dope/id1011720750?l=ko&ls=1.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/H8lYMWZD5P8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/H8lYMWZD5P8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/H8lYMWZD5P8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "HYBE LABELS",
-        "liveBroadcastContent": "none",
-        "publishTime": "2015-06-23T15:00:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "rvaJqWaRW9V7bqTjvoP5wTmwfHA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "HbkBVxU5K5A"
-      },
-      "snippet": {
-        "publishedAt": "2022-04-23T01:00:03Z",
+        "publishedAt": "2024-08-02T12:00:00Z",
         "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "BTS (방탄소년단) &#39;Butter&#39; @ The 64th GRAMMY Awards",
-        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+        "title": "[달려라 석진] EP.0-4 | 월드와이드 핸썸의 밤",
+        "description": "24. 8. 13. 오후 9시 본방사수! Aug 13, 9PM (KST) Coming Soon! #RunJin #달려라석진 #진 #Jin Connect with BTS: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/default.jpg",
+            "url": "https://i.ytimg.com/vi/bsmNvFYVIus/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bsmNvFYVIus/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bsmNvFYVIus/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "BANGTANTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-04-23T01:00:03Z"
+        "publishTime": "2024-08-02T12:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MEYo4cOiD_YV-D-14iOiw4z-wcg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "TEl6KgcfSA8"
-      },
-      "snippet": {
-        "publishedAt": "2017-09-28T09:58:35Z",
-        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
-        "title": "[BTS - Go Go] Comeback Stage | M COUNTDOWN 170928 EP.543",
-        "description": "KPOP Chart Show M COUNTDOWN | EP.543 - BTS - Go Go ▷Watch more video clips: http://bit.ly/MCOUNTDOWN-KPOP2017 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mnet K-POP",
-        "liveBroadcastContent": "none",
-        "publishTime": "2017-09-28T09:58:35Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "AQ856q_e5ss0lPiDXHZEMn9I5WQ",
+      "etag": "cVlGk6fHZlX4u8x_lKUF8H3r8aM",
       "id": {
         "kind": "youtube#video",
         "videoId": "9DwzBICPhdM"
@@ -820,7 +718,41 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "NU6lZhpRNIva_n387g7Yigxcgaw",
+      "etag": "5dYA8wow5PfeNTI4bIrFQjE1Iqc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wQPlEBymvdE"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T15:53:13Z",
+        "channelId": "UCepf2rSJI7XMvSN4iP5Wf8g",
+        "title": "Raka Taka Taka💜#bts #shorts #btsarmy | @lisquad",
+        "description": "Raka Taka Taka  #bts #shorts #btsarmy | @lisquad Raka Taka Taka song raka taka taka edit #ytshorts #youtubeshorts #shorts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wQPlEBymvdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wQPlEBymvdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wQPlEBymvdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LI squad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T15:53:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6pL6JiOutZMtgq2iJoxCobG78wk",
       "id": {
         "kind": "youtube#video",
         "videoId": "ZDV9fpN0xvs"
@@ -850,6 +782,74 @@
         "channelTitle": "REHAN SATTAR",
         "liveBroadcastContent": "none",
         "publishTime": "2023-05-22T19:27:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TELQzjPBb2vSRZuotbPjxrquy1I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m8MfJg68oCs"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-11T13:00:01Z",
+        "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+        "title": "[MV] BTS(방탄소년단) _ Boy In Luv(상남자)",
+        "description": "[MV] BTS(방탄소년단) _ Boy In Luv(상남자) LOEN MUSIC changes the name to '1theK[wʌnðəkeɪ]' to be a global Kpop hub!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m8MfJg68oCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m8MfJg68oCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m8MfJg68oCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1theK (원더케이)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-11T13:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cry_mMQoRD2QeNWoAgfcuge_QYU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cb70gcTVvYI"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-16T04:00:03Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BTS (방탄소년단) &#39;달려라 방탄 (Run BTS)&#39; @ BTS &quot;Yet To Come&quot; in BUSAN",
+        "description": "BTS #방탄소년단 #달려라방탄 #RunBTS #YetToComeInBUSAN Connect with BTS: https://ibighit.com/bts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-16T04:00:03Z"
       }
     }
   ]
